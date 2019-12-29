@@ -23,6 +23,16 @@ Books  Automate the Boring Stuff with Python - Shows how to write useful program
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://karanveersp.github.io/about/</link>
+      <pubDate>Sun, 29 Dec 2019 12:07:30 -0500</pubDate>
+      
+      <guid>https://karanveersp.github.io/about/</guid>
+      <description>I&#39;m a programmer and artist. I&#39;ve worked for a year as a python developer building automations and libraries.
+This blog is an effort to create my own little camp of insights and knowledge in the vast internet cosmos. Having discovered so much wisdom in the writing of other developers, I want to give back and be helpful to others.</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>https://karanveersp.github.io/posts/hello-world/</link>
       <pubDate>Sun, 29 Dec 2019 12:07:30 -0500</pubDate>
@@ -31,16 +41,6 @@ Books  Automate the Boring Stuff with Python - Shows how to write useful program
       <description>For the first post, I want to describe the purpose of this blog.
 To share and explore the craft of programming by writing simple tutorials and articles. We don&#39;t truly master something until we teach it so I want to challenge myself by consolidating and conveying all that I know for others.
 I like Python, TypeScript and Go so most of the posts will have something to do them and their ecosystem.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://karanveersp.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://karanveersp.github.io/about/</guid>
-      <description>I&#39;m a programmer and artist. I&#39;ve worked for a year as a python developer building automations and libraries.
-This blog is an effort to create my own little camp of insights and knowledge in the vast internet cosmos. Having discovered so much wisdom in the writing of other developers, I want to give back and be helpful to others.</description>
     </item>
     
   </channel>

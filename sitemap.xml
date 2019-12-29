@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://karanveersp.github.io/about/</loc>
+    <lastmod>2019-12-29T12:07:30-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://karanveersp.github.io/posts/hello-world/</loc>
     <lastmod>2019-12-29T12:07:30-05:00</lastmod>
   </url>
@@ -35,10 +40,6 @@
   <url>
     <loc>https://karanveersp.github.io/tags/introduction/</loc>
     <lastmod>2019-12-29T12:07:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karanveersp.github.io/about/</loc>
   </url>
   
 </urlset>
