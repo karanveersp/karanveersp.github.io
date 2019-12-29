@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Karanveer</title>
+    <link>https://karanveersp.github.io/tags/python/</link>
+    <description>Recent content in python on Karanveer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019 Karanveer</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 12:30:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://karanveersp.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Resources</title>
+      <link>https://karanveersp.github.io/posts/python-resources/</link>
+      <pubDate>Sun, 29 Dec 2019 12:30:40 -0500</pubDate>
+      
+      <guid>https://karanveersp.github.io/posts/python-resources/</guid>
+      <description>Learning python is easier than other languages for many reasons. One of the reasons is the tremendous amount of great, free resources to learn from. So here are some resources I found heplful.
+Books  Automate the Boring Stuff with Python - Shows how to write useful programs to do all sorts of things with python. Composing Programs - A python oriented take on the legendary SICP book/course. Think Python: How to Think Like a Computer Scientist - Get immersed in the details.</description>
+    </item>
+    
+  </channel>
+</rss>

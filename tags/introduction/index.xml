@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introduction on Karanveer</title>
+    <link>https://karanveersp.github.io/tags/introduction/</link>
+    <description>Recent content in introduction on Karanveer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019 Karanveer</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 12:07:30 -0500</lastBuildDate>
+    
+	<atom:link href="https://karanveersp.github.io/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://karanveersp.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 29 Dec 2019 12:07:30 -0500</pubDate>
+      
+      <guid>https://karanveersp.github.io/posts/hello-world/</guid>
+      <description>For the first post, I want to describe the purpose of this blog.
+To share and explore the craft of programming by writing simple tutorials and articles. We don&#39;t truly master something until we teach it so I want to challenge myself by consolidating and conveying all that I know for others.
+I like Python, TypeScript and Go so most of the posts will have something to do them and their ecosystem.</description>
+    </item>
+    
+  </channel>
+</rss>

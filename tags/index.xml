@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Karanveer</title>
+    <link>https://karanveersp.github.io/tags/</link>
+    <description>Recent content in Tags on Karanveer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019 Karanveer</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 12:30:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://karanveersp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>python</title>
+      <link>https://karanveersp.github.io/tags/python/</link>
+      <pubDate>Sun, 29 Dec 2019 12:30:40 -0500</pubDate>
+      
+      <guid>https://karanveersp.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introduction</title>
+      <link>https://karanveersp.github.io/tags/introduction/</link>
+      <pubDate>Sun, 29 Dec 2019 12:07:30 -0500</pubDate>
+      
+      <guid>https://karanveersp.github.io/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

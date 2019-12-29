@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://karanveersp.github.io/</loc>
+    <lastmod>2019-12-29T12:30:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/posts/</loc>
+    <lastmod>2019-12-29T12:30:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/tags/python/</loc>
+    <lastmod>2019-12-29T12:30:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/posts/python-resources/</loc>
+    <lastmod>2019-12-29T12:30:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/tags/</loc>
+    <lastmod>2019-12-29T12:30:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/posts/hello-world/</loc>
+    <lastmod>2019-12-29T12:07:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/tags/introduction/</loc>
+    <lastmod>2019-12-29T12:07:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karanveersp.github.io/about/</loc>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
+  </url>
+  
+</urlset>

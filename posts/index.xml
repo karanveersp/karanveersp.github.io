@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Karanveer</title>
+    <link>https://karanveersp.github.io/posts/</link>
+    <description>Recent content in Posts on Karanveer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019 Karanveer</copyright>
+    <lastBuildDate>Sun, 29 Dec 2019 12:30:40 -0500</lastBuildDate>
+    
+	<atom:link href="https://karanveersp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python Resources</title>
+      <link>https://karanveersp.github.io/posts/python-resources/</link>
+      <pubDate>Sun, 29 Dec 2019 12:30:40 -0500</pubDate>
+      
+      <guid>https://karanveersp.github.io/posts/python-resources/</guid>
+      <description>Learning python is easier than other languages for many reasons. One of the reasons is the tremendous amount of great, free resources to learn from. So here are some resources I found heplful.
+Books  Automate the Boring Stuff with Python - Shows how to write useful programs to do all sorts of things with python. Composing Programs - A python oriented take on the legendary SICP book/course. Think Python: How to Think Like a Computer Scientist - Get immersed in the details.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://karanveersp.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 29 Dec 2019 12:07:30 -0500</pubDate>
+      
+      <guid>https://karanveersp.github.io/posts/hello-world/</guid>
+      <description>For the first post, I want to describe the purpose of this blog.
+To share and explore the craft of programming by writing simple tutorials and articles. We don&#39;t truly master something until we teach it so I want to challenge myself by consolidating and conveying all that I know for others.
+I like Python, TypeScript and Go so most of the posts will have something to do them and their ecosystem.</description>
+    </item>
+    
+  </channel>
+</rss>
