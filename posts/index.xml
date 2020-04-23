@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Karanveer</title>
+    <title>Posts on The Mighty Source</title>
     <link>https://karanveersp.github.io/posts/</link>
-    <description>Recent content in Posts on Karanveer</description>
+    <description>Recent content in Posts on The Mighty Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 Karanveer</copyright>
-    <lastBuildDate>Sun, 29 Dec 2019 12:30:40 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2020 10:09:38 -0400</lastBuildDate>
     
 	<atom:link href="https://karanveersp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Core Python Introduction</title>
+      <link>https://karanveersp.github.io/posts/core-python/</link>
+      <pubDate>Fri, 17 Apr 2020 10:09:38 -0400</pubDate>
+      
+      <guid>https://karanveersp.github.io/posts/core-python/</guid>
+      <description>An Introduction to Python Python is a general purpose, inerpreted, object-oriented and structural scripting language. For me, it&amp;rsquo;s the swiss army knife of programming languages.
+Like any programming enthusiast, I&amp;rsquo;m always excited to learn a new language. Over the past year, I&amp;rsquo;ve learned the basics of Haskell, F#, Groovy, and Go. Each one of these is amazing and fun to use. But the fact remains that the one language with which I&amp;rsquo;ve logged the most hours till date is Python.</description>
+    </item>
     
     <item>
       <title>Python Resources</title>
@@ -29,7 +39,7 @@ Books  Automate the Boring Stuff with Python - Shows how to write useful program
       
       <guid>https://karanveersp.github.io/posts/hello-world/</guid>
       <description>For the first post, I want to describe the purpose of this blog.
-To share and explore the craft of programming by writing simple tutorials and articles. We don&#39;t truly master something until we teach it so I want to challenge myself by consolidating and conveying all that I know for others.
+To share and explore the craft of programming by writing simple tutorials and articles. We don&amp;rsquo;t truly master something until we teach it so I want to challenge myself by consolidating and conveying all that I know for others.
 I like Python, TypeScript and Go so most of the posts will have something to do them and their ecosystem.</description>
     </item>
     
